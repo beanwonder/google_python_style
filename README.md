@@ -1,4 +1,4 @@
-gle_python_style        
+google_python_style        
 ===================
 
 A copy of google python style indent file for vim from:
